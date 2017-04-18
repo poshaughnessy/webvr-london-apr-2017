@@ -225,7 +225,6 @@ a {
 a:hover {
   color: #706cf5;
   text-decoration: underline;
-  text-shadow: 1px 1px 0 #666;
 }
 
 pre {
@@ -660,6 +659,10 @@ h2 + .quote {
 
 .slide.thanks:before {
   background-image: url(images/samsung-devrel-team2.jpg);
+}
+
+.slide.pwacman:before {
+  background-image: url(images/pwacman.jpg);
 }
 
 .thanks {
