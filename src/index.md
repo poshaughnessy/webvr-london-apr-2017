@@ -23,21 +23,21 @@ controls: false
 
 <video src="videos/si4gvr-meetup.mp4" controls></video>
 
--- pwacman valign-bottom
+-- pwacman valign-bottom extra-vignette-1
 
 [samsunginter.net/pwacman](https://samsunginter.net/pwacman)
 
--- img-with-caption aframe-racer bg-fade
-
-![A-Frame Racer](images/aframe-racer.jpg)
+-- aframe-racer valign-bottom extra-vignette-1
 
 [samsunginter.net/a-frame-demos/racer/](https://samsunginter.net/a-frame-demos/racer/)
 
--- img-with-caption bubble bg-fade
-
-![Bubble](images/bubble.jpg)
+-- bubble valign-bottom extra-vignette-2
 
 [samsunginter.net/bubble/](https://samsunginter.net/bubble/)
+
+-- word-drop valign-bottom extra-vignette-1
+
+[samsunginter.net/word-drop/](https://samsunginter.net/word-drop/)
 
 -- bg-fade-less-grey thanks valign-bottom
 
