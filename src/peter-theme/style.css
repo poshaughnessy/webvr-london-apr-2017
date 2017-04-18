@@ -709,6 +709,10 @@ h2 + .quote {
   background-image: url(images/word-drop.jpg);
 }
 
+.slide.metaverse-audience:before {
+  background-image: url(images/metaverse-audience.jpg);
+}
+
 .thanks {
   text-align: right;
 }

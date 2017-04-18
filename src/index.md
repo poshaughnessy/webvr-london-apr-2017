@@ -39,6 +39,10 @@ controls: false
 
 [samsunginter.net/word-drop/](https://samsunginter.net/word-drop/)
 
+-- metaverse-audience valign-bottom extra-vignette-2
+
+[bit.ly/metaverse-blog-post](https://bit.ly/metaverse-blog-post)
+
 -- bg-fade-less-grey thanks valign-bottom
 
 # Thanks!
