@@ -668,8 +668,10 @@ h2 + .quote {
 
 .thanks h1 {
   transform: none;
+  margin-right: 2vw;
 }
 
 .thanks h3 {
   margin-bottom: 2em;
+  margin-right: 2vw;
 }
