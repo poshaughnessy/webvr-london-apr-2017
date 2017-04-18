@@ -3,7 +3,7 @@ output: public/index.html
 theme: peter-theme
 controls: false
 
--- bg-fade intro
+-- bg-fade-grey intro
 
 # WebVR @ Samsung
 
@@ -33,9 +33,11 @@ controls: false
 
 [samsunginter.net/a-frame-demos/racer/](https://samsunginter.net/a-frame-demos/racer/)
 
--- img-with-caption bubble
+-- img-with-caption bubble bg-fade
 
-![Bubble](images/aframe-racer.jpg)
+![Bubble](images/bubble.jpg)
+
+[samsunginter.net/bubble/](https://samsunginter.net/bubble/)
 
 -- bg-fade-less-grey thanks valign-bottom
 

@@ -54,6 +54,10 @@ body {
   align-items: flex-end;
 }
 
+.valign-bottom p:last-child {
+  margin-bottom: 0.5em;
+}
+
 .no-margin {
   margin: 0;
 }
@@ -631,6 +635,10 @@ h2 + .quote {
   -webkit-filter: blur(4px) grayscale(0.1) brightness(0.1);
   filter: blur(4px) grayscale(0.1) brightness(0.1);
 }
+.slide.bg-fade-grey:before {
+  -webkit-filter: blur(3px) grayscale(0.9) brightness(0.2);
+  filter: blur(3px) grayscale(0.9) brightness(0.2);
+}
 .slide.bg-fade-less-grey:before {
   -webkit-filter: blur(2px) grayscale(0.9) brightness(0.3);
   filter: blur(2px) grayscale(0.9) brightness(0.3);
@@ -679,6 +687,10 @@ h2 + .quote {
 
 .slide.aframe-racer:before {
   background-image: url(images/aframe-racer.jpg);
+}
+
+.slide.bubble:before {
+  background-image: url(images/bubble.jpg);
 }
 
 .thanks {
