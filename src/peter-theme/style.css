@@ -650,10 +650,26 @@ h2 + .quote {
   font-size: 1.2em;
 }
 
+#slide-1 .contact {
+  margin-top: 8em;
+}
+
 .slide.intro:before {
   background-image: url(images/samsung-devrel-team3.jpg);
 }
 
 .slide.thanks:before {
   background-image: url(images/samsung-devrel-team2.jpg);
+}
+
+.thanks {
+  text-align: right;
+}
+
+.thanks h1 {
+  transform: none;
+}
+
+.thanks h3 {
+  margin-bottom: 2em;
 }

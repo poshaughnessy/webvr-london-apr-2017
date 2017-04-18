@@ -29,11 +29,8 @@ controls: false
 
 --
 
--- bg-fade thanks
+-- bg-fade thanks valign-bottom
 
 # Thanks!
 
-<div class="contact">
-  <h3> [@poshaughnessy](https://twitter.com/poshaughnessy) </h3>
-  <h3> [@samsunginternet](https://twitter.com/samsunginternet) </h3>
-</div>
+### [@samsunginternet](https://twitter.com/samsunginternet)
