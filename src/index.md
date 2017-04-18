@@ -17,11 +17,27 @@ controls: false
 
 ![Samsung Internet icon on homescreen](images/samsung-internet-beta-phone-blur.png)
 
-[bit.ly/samsung-internet-open-beta](http://bit.ly/samsung-internet-open-beta)
+[Samsung Internet for Android](http://bit.ly/samsung-internet-open-beta)
+
+-- img-with-caption
+
+![Samsung Internet for Gear VR launch](images/gear-vr-browser-launch2.jpg)
+
+[Samsung Internet for Gear VR launched, Dec 2015](https://news.samsung.com/global/samsung-launches-optimized-web-browser-for-gear-vr)
 
 --
 
 <video src="videos/si4gvr-meetup.mp4" controls></video>
+
+-- img-with-caption
+
+![Samsung Internet for Gear VR WebVR support](images/gear-vr-webvr-support.jpg)
+
+[WebVR support added, Apr 2016](https://www.slashgear.com/samsung-internet-browser-for-gear-vr-now-supports-webvr-04434526/)
+
+-- 
+
+TODO add video showing WebVR
 
 -- pwacman valign-bottom extra-vignette-1
 
@@ -41,7 +57,17 @@ controls: false
 
 -- metaverse-audience valign-bottom extra-vignette-2
 
-[bit.ly/metaverse-blog-post](https://bit.ly/metaverse-blog-post)
+[metaverse.samsunginter.net](https://metaverse.samsunginter.net/)
+
+-- img-with-caption gamepad-support
+
+![Gamepad API support](images/gamepad-support.png)
+
+[bit.ly/beta-gamepad-support](bit.ly/beta-gamepad-support)
+
+-- controller valign-bottom
+
+[samsung.com/global/galaxy/gear-vr/#controller](http://www.samsung.com/global/galaxy/gear-vr/#controller)
 
 -- bg-fade-less-grey thanks valign-bottom
 

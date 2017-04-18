@@ -713,6 +713,16 @@ h2 + .quote {
   background-image: url(images/metaverse-audience.jpg);
 }
 
+.slide.gamepad-support:before {
+  background-color: #eee;
+  box-shadow: inset 0 -0.5em 5em 1em #aaa; /* Vignette */
+}
+
+.slide.controller:before {
+  background-image: url(images/gear-vr_naturally_hand.png);
+  background-position: center right;
+}
+
 .thanks {
   text-align: right;
 }
