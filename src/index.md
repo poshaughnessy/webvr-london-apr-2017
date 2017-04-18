@@ -33,8 +33,15 @@ controls: false
 
 [samsunginter.net/a-frame-demos/racer/](https://samsunginter.net/a-frame-demos/racer/)
 
+-- img-with-caption bubble
+
+![Bubble](images/aframe-racer.jpg)
+
 -- bg-fade-less-grey thanks valign-bottom
 
 # Thanks!
 
-### [@samsunginternet](https://twitter.com/samsunginternet)
+<div class="social">
+  <h3 class="twitter">[@samsunginternet](https://twitter.com/samsunginternet)</h3>
+  <h3 class="github">[github.com/samsunginternet](https://github.com/SamsungInternet/)</h3>
+</div>
