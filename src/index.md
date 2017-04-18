@@ -27,7 +27,11 @@ controls: false
 
 [samsunginter.net/pwacman](https://samsunginter.net/pwacman)
 
---
+-- img-with-caption aframe-racer bg-fade
+
+![A-Frame Racer](images/aframe-racer.jpg)
+
+[samsunginter.net/a-frame-demos/racer/](https://samsunginter.net/a-frame-demos/racer/)
 
 -- bg-fade thanks valign-bottom
 

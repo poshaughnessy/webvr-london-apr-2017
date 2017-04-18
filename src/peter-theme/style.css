@@ -665,6 +665,10 @@ h2 + .quote {
   background-image: url(images/pwacman.jpg);
 }
 
+.slide.aframe-racer:before {
+  background-image: url(images/aframe-racer.jpg);
+}
+
 .thanks {
   text-align: right;
 }
