@@ -62,6 +62,10 @@ body {
   align-items: flex-end;
 }
 
+.valign-bottom p:last-child {
+  margin-bottom: 0.5em;
+}
+
 .no-margin {
   margin: 0;
 }
@@ -639,6 +643,10 @@ h2 + .quote {
   -webkit-filter: blur(4px) grayscale(0.1) brightness(0.1);
   filter: blur(4px) grayscale(0.1) brightness(0.1);
 }
+.slide.bg-fade-grey:before {
+  -webkit-filter: blur(3px) grayscale(0.9) brightness(0.2);
+  filter: blur(3px) grayscale(0.9) brightness(0.2);
+}
 .slide.bg-fade-less-grey:before {
   -webkit-filter: blur(2px) grayscale(0.9) brightness(0.3);
   filter: blur(2px) grayscale(0.9) brightness(0.3);
@@ -689,6 +697,10 @@ h2 + .quote {
   background-image: url(images/aframe-racer.jpg);
 }
 
+.slide.bubble:before {
+  background-image: url(images/bubble.jpg);
+}
+
 .thanks {
   text-align: right;
 }
@@ -733,7 +745,7 @@ h2 + .quote {
     <div class="progress-bar"></div>
   </div>
 
-  <div class="slide  bg-fade intro" id="slide-1">
+  <div class="slide  bg-fade-grey intro" id="slide-1">
     <section class="slide-content"><h1 id="webvr-samsung">WebVR @ Samsung</h1>
 <div class="contact">
   <p>Peter O&#39;Shaughnessy</p>
@@ -758,8 +770,9 @@ h2 + .quote {
 <p><a href="https://samsunginter.net/a-frame-demos/racer/">samsunginter.net/a-frame-demos/racer/</a></p>
 </section>
   </div>
-  <div class="slide hidden  img-with-caption bubble" id="slide-6">
-    <section class="slide-content"><p><img src="images/aframe-racer.jpg" alt="Bubble"></p>
+  <div class="slide hidden  img-with-caption bubble bg-fade" id="slide-6">
+    <section class="slide-content"><p><img src="images/bubble.jpg" alt="Bubble"></p>
+<p><a href="https://samsunginter.net/bubble/">samsunginter.net/bubble/</a></p>
 </section>
   </div>
   <div class="slide hidden  bg-fade-less-grey thanks valign-bottom" id="slide-7">
