@@ -3,7 +3,7 @@ output: public/index.html
 theme: peter-theme
 controls: false
 
--- bg-fade card-closeup
+-- bg-fade intro
 
 # WebVR At Samsung
 
@@ -12,7 +12,11 @@ controls: false
   <p class="social">[@poshaughnessy](https://twitter.com/poshaughnessy) [@samsunginternet](https://twitter.com/samsunginternet)</p>
 </div>
 
--- bg-fade
+--
+
+<video src="videos/si4gvr-meetup.mp4" controls></video>
+
+-- bg-fade thanks
 
 # Thanks!
 
