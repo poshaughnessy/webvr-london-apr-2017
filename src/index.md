@@ -33,7 +33,7 @@ controls: false
 
 [samsunginter.net/a-frame-demos/racer/](https://samsunginter.net/a-frame-demos/racer/)
 
--- bg-fade thanks valign-bottom
+-- bg-fade-less-grey thanks valign-bottom
 
 # Thanks!
 

@@ -623,6 +623,10 @@ h2 + .quote {
   -webkit-filter: blur(4px) grayscale(0.1) brightness(0.1);
   filter: blur(4px) grayscale(0.1) brightness(0.1);
 }
+.slide.bg-fade-less-grey:before {
+  -webkit-filter: blur(2px) grayscale(0.9) brightness(0.3);
+  filter: blur(2px) grayscale(0.9) brightness(0.3);
+}
 .slide-content {
   z-index: 1;
 }
