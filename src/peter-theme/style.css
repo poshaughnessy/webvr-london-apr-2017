@@ -713,6 +713,10 @@ h2 + .quote {
   background-image: url(images/metaverse-audience.jpg);
 }
 
+.slide.within:before {
+  background-image: url(images/within.png);
+}
+
 .slide.gamepad-support:before {
   background-color: #eee;
   box-shadow: inset 0 -0.5em 5em 1em #aaa; /* Vignette */

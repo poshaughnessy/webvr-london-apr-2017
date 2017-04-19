@@ -59,6 +59,10 @@ TODO add video showing WebVR
 
 [metaverse.samsunginter.net](https://metaverse.samsunginter.net/)
 
+-- within valign-bottom extra-vignette-2
+
+[vr.with.in](https://vr.with.in)
+
 -- img-with-caption gamepad-support
 
 ![Gamepad API support](images/gamepad-support.png)
