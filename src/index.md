@@ -39,6 +39,11 @@ controls: false
 
 TODO add video showing WebVR
 
+
+--
+
+# Examples
+
 -- pwacman valign-bottom extra-vignette-1
 
 [samsunginter.net/pwacman](https://samsunginter.net/pwacman)
@@ -78,6 +83,42 @@ TODO add video showing WebVR
 ### "Continuous browsing experiences"
 
 ![Continuous browsing experiences](images/continuous-browsing-experience.png)
+
+-- img-with-header
+
+### Responsive Design
+
+![Responsive design](images/responsive-design.png)
+
+*Assume small screen.*
+
+*If > x pixels, apply desktop styles.*
+
+-- img-with-header
+
+### Responsive Experience
+
+![Responsive experiences](images/responsive-experiences.png)
+
+*Assume no VR headset.*
+
+*If WebVR/polyfill & user taps button, start VR experience.*
+
+-- img-with-header
+
+### Responsive Fidelity
+
+![Responsive fidelity](images/responsive-fidelity.png)
+
+*Assume low-powered.* 
+
+*If smooth frame rate, download higher-res assets.*
+
+-- img-with-caption
+
+![PlayCanvas Man-O-War]()
+
+[bit.ly/playcanvas-gun-project](http://bit.ly/playcanvas-gun-project)
 
 -- img-with-caption gamepad-support
 
