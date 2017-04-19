@@ -735,6 +735,19 @@ h2 + .quote {
   background-position: center right;
 }
 
+.slide.man-o-war:before {
+  background-image: url(images/playcanvas-man-o-war.jpg);
+}
+
+.slide.iframe:before {
+  background-color: #000;
+}
+
+.browser-support p img {
+  max-width: 11%;
+  padding: 0 1vw;
+}
+
 .thanks {
   text-align: right;
 }

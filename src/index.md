@@ -35,10 +35,19 @@ controls: false
 
 [WebVR support added, Apr 2016](https://www.slashgear.com/samsung-internet-browser-for-gear-vr-now-supports-webvr-04434526/)
 
+<!-- NB. Samsung Internet for Gear VR - WebVR not enabled by default but prompts you to enable it -->
+
 -- 
 
-TODO add video showing WebVR
+### “The best way to reach the widest number of customers in VR will be via the web.”
 
+<div class="caption">Brandon Jones, Google</div>
+
+-- browser-support
+
+![Chrome for Android](images/chrome-android.png) ![Chromium](images/chromium.png) ![Firefox Nightly](images/firefox-nightly.png) ![Servo](images/servo.png) ![Samsung Internet](images/sbrowser5.0.png) ![Edge](images/edge.png) ![Carmel](images/carmel.png) 
+
+[webvr.rocks](https://webvr.rocks/)
 
 --
 
@@ -116,9 +125,33 @@ TODO add video showing WebVR
 
 -- img-with-caption
 
-![PlayCanvas Man-O-War]()
+![PlayCanvas Man-O-War](images/playcanvas-man-o-war.jpg)
 
 [bit.ly/playcanvas-gun-project](http://bit.ly/playcanvas-gun-project)
+
+--
+
+<video controls src="360-timelapse.mp4" type="video/mp4; dimension=360;"></video>
+
+```
+<video controls src="360-timelapse.mp4" 
+       type="video/mp4; dimension=360;"></video>
+```
+
+[samsunginter.net/docs/skybox](https://samsunginter.net/docs/skybox)
+
+-- iframe
+
+<iframe width="100%" height="90%" style="margin-top:5vh" src="https://www.youtube.com/embed/9NefsqY3uGw" frameborder="0" allowfullscreen></iframe>
+
+-- 
+
+```javascript
+window.SamsungChangeSky({ 
+  sphere: 'http://site.com/blue-sky.jpg' 
+});
+```
+[samsunginter.net/docs/skybox](https://samsunginter.net/docs/skybox)
 
 -- img-with-caption gamepad-support
 
@@ -129,6 +162,7 @@ TODO add video showing WebVR
 -- controller valign-bottom
 
 [samsung.com/global/galaxy/gear-vr/#controller](http://www.samsung.com/global/galaxy/gear-vr/#controller)
+
 
 -- bg-fade-less-grey thanks valign-bottom
 
