@@ -135,14 +135,14 @@ controls: false
 
 --
 
-<video controls src="360-timelapse.mp4" type="video/mp4; dimension=360;"></video>
+<video controls src="videos/360-timelapse.mp4" type="video/mp4; dimension=360;"></video>
 
 ```
 <video controls src="360-timelapse.mp4" 
        type="video/mp4; dimension=360;"></video>
 ```
 
-[samsunginter.net/docs/skybox](https://samsunginter.net/docs/skybox)
+[samsunginter.net/docs/video-360](https://samsunginter.net/docs/video-360)
 
 -- iframe
 
