@@ -717,6 +717,14 @@ h2 + .quote {
   background-image: url(images/within.png);
 }
 
+.slide.playcanvas-lab:before {
+  background-image: url(images/playcanvas-webvr-lab.png);
+}
+
+.slide.pva:before {
+  background-image: url(images/pva-glue.jpg);
+}
+
 .slide.gamepad-support:before {
   background-color: #eee;
   box-shadow: inset 0 -0.5em 5em 1em #aaa; /* Vignette */

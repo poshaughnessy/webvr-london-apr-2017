@@ -63,6 +63,22 @@ TODO add video showing WebVR
 
 [vr.with.in](https://vr.with.in)
 
+-- playcanvas-lab valign-bottom extra-vignette-1
+
+[webvr.playcanvas.com](https://webvr.playcanvas.com)
+
+-- pva bg-fade-less
+
+# Progressive VR Apps
+
+<div class="credit">[Victuallers](https://commons.wikimedia.org/wiki/File:Pva_wood_glue.jpg)</div>
+
+-- img-with-header
+
+### "Continuous browsing experiences"
+
+![Continuous browsing experiences](images/continuous-browsing-experience.png)
+
 -- img-with-caption gamepad-support
 
 ![Gamepad API support](images/gamepad-support.png)
