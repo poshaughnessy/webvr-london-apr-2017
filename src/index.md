@@ -133,9 +133,9 @@ controls: false
 
 [bit.ly/playcanvas-gun-project](http://bit.ly/playcanvas-gun-project)
 
---
+-- video-360
 
-<video controls src="videos/360-timelapse.mp4" type="video/mp4; dimension=360;"></video>
+![360 video](images/360-video.png)
 
 ```
 <video controls src="360-timelapse.mp4" 

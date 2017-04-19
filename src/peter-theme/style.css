@@ -785,3 +785,6 @@ h2 + .quote {
   background-image: url(images/github.png);
 }
 
+.video-360 img {
+  max-height: 50vh;
+}
