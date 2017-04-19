@@ -705,6 +705,10 @@ h2 + .quote {
   background-image: url(images/bubble.jpg);
 }
 
+.slide.bubble-hollywood:before {
+  background-image: url(images/bubble-hollywood.jpg);
+}
+
 .slide.word-drop:before {
   background-image: url(images/word-drop.jpg);
 }

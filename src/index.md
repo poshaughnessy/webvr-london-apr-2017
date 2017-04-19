@@ -65,6 +65,10 @@ controls: false
 
 [samsunginter.net/bubble/](https://samsunginter.net/bubble/)
 
+-- bubble-hollywood valign-bottom extra-vignette-2
+
+[bit.ly/hollywood-bubble](http://bit.ly/hollywood-bubble)
+
 -- word-drop valign-bottom extra-vignette-1
 
 [samsunginter.net/word-drop/](https://samsunginter.net/word-drop/)
