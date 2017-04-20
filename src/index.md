@@ -27,7 +27,10 @@ controls: false
 
 --
 
-<video src="videos/si4gvr-meetup.mp4" controls></video>
+<video controls>
+  <source src="videos/si4gvr-meetup.mp4" type="video/mp4">
+  <source src="videos/si4gvr-meetup.webm" type="video/webm">
+</video>
 
 -- img-with-caption
 
