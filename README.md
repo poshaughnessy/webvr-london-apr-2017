@@ -4,7 +4,7 @@ My slides for [WebVR/AR Meetup London, April 2017](https://www.meetup.com/Web-VR
 
 ## To view the slides
 
-Check them out at: [link coming soon](todo)
+Check them out at: [poshaughnessy.github.io/webvr-london-apr-2017/](https://poshaughnessy.github.io/webvr-london-apr-2017/)
 
 Use arrow keys or the arrow buttons to move left/right.
 
