@@ -6,7 +6,7 @@ My slides for [WebVR/AR Meetup London, April 2017](https://www.meetup.com/Web-VR
 
 Check them out at: [poshaughnessy.github.io/webvr-london-apr-2017/](https://poshaughnessy.github.io/webvr-london-apr-2017/)
 
-Use arrow keys or the arrow buttons to move left/right.
+Use arrow keys or swipe to move left/right.
 
 
 ## To run locally
